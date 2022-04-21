@@ -1,0 +1,17 @@
+.company {
+    font-weight: bold;
+    text-decoration: none;
+    font-style: normal;
+}
+
+.reference {
+    text-decoration: underline;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.position {
+    font-style: italic;
+    font-weight: normal;
+    text-decoration: none;
+}
